@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+     <img width="600" src="https://lanyard.kyrie25.me/api/623396908215304199?idleMessage=Sleeping😴&useDisplayName=false&waveColor=025cda&gradient=025cda-185283-FFFFFF" />
+</div>
 <h2 align="center">Stats</h2>
 <div align="center">
     <img width=340 src="https://github-readme-stats.vercel.app/api?username=KubaCZ007&show_icons=true&count_private=true&rank_icon=github&theme=transparent" />
