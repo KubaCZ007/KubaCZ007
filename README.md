@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p> <img src="https://komarev.com/ghpvc/?username=KubaCZ007&label=Profile%20views&color=025cda&style=for-the-badge" /> </p>
 <div align="center">
      <img width="600" src="https://lanyard.kyrie25.me/api/623396908215304199?idleMessage=Sleeping😴&useDisplayName=false&waveColor=025cda&gradient=025cda-185283-FFFFFF" />
 </div>
