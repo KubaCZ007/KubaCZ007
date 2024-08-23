@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <h2 align="center">Stats</h2>
 <div align="center">
-    <img width=340 src="https://github-readme-stats.vercel.app/api?username=KubaCZ007&show_icons=true&count_private=true&rank_icon=github&theme=transparent" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubaCZ007&layout=compact&langs_count=4&theme=transparent" /> 
+    <img width=340 src="https://github-readme-stats.vercel.app/api?username=KubaCZ007&show_icons=true&count_private=true&rank_icon=github&theme=shadow_green" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubaCZ007&layout=compact&langs_count=4&theme=shadow_green" /> 
     <br>
     <br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KubaCZ007&theme=transparent" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KubaCZ007&theme=shadow_green" />
     <br>
     <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KubaCZ007&theme=transparent" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KubaCZ007&theme=shadow_green" />
 </div>
 
